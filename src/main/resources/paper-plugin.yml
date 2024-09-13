@@ -1,0 +1,4 @@
+name: lightBlockCraft
+version: '1.0-SNAPSHOT'
+main: ua.myakish.lightBlockCraft.lightBlockCraft
+api-version: '1.21'
