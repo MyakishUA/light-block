@@ -28,7 +28,7 @@ public class lightBlockCraft extends JavaPlugin {
     private void createLightBlockRecipe() {
         ItemStack lightBlock = new ItemStack(Material.LIGHT, 8);
         ItemMeta lightMeta = lightBlock.getItemMeta();
-        lightMeta.setDisplayName("Invisible Light Block");
+        lightMeta.setDisplayName("Невидиме світло");
         lightBlock.setItemMeta(lightMeta);
 
         ItemStack invisibilityPotion = new ItemStack(Material.POTION);
